@@ -13,9 +13,3 @@ This application uses localStorage, saving data across browser sessions. [Try it
 
 ## Screenshot
 ![example screenshot](example-medium.png)
-
-## Future Ideas
-- [ ] Responsiveness (site for smartphones);
-- [ ] **Help Button**;
-- [ ] Edit existing items;
-- [ ] Dedicated **Done Button**.
